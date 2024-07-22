@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.sliderEco{
+    height: 600px;
+    object-fit: cover;
+}
+
+.cardHeight{
+    height: 600px;
+
+
+}
+
+@media screen and (max-width: 576px) {
+    .cardHeight{
+        height: 500px;
+    }
+  }
